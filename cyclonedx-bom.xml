@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom version="1" xmlns="http://cyclonedx.org/schema/bom/1.1">
+    <components>
+        <component type="library">
+            <publisher>Ronald Oussoren</publisher>
+            <name>altgraph</name>
+            <version>0.10.2</version>
+            <description>Python graph (network) package</description>
+            <hashes>
+                <hash alg="SHA-256">628ad4e48be307970476ed0a9ab5efaf52e188bff115ab97d9e3d27fbe95fb60</hash>
+                <hash alg="MD5">059ae244d667cc673e16826c2b96046f</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <name>MIT</name>
+                    <url>http://www.url.com</url>
+                </license>
+                <license>
+                    <id>Apache-2.0</id>
+                    <name>Apache-2.0</name>
+                    <url>http://www.url.com</url>
+                </license>
+            </licenses>
+            <purl>pkg:pypi/altgraph@0.10.2</purl>
+            <modified>false</modified>
+        </component>
+        <component type="library">
+            <publisher>Bob Ippolito</publisher>
+            <name>bdist-mpkg</name>
+            <version>0.5.0</version>
+            <description>Builds Mac OS X installer packages from distutils</description>
+            <hashes>
+                <hash alg="SHA-256">d42a697e0869d12dd451c9ef687ac34f45d44227569cfabec69bddabb40bb89b</hash>
+                <hash alg="MD5">db4742ffa9afc8a0cf6c55c2aeb7309f</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <name>MIT License</name>
+                </license>
+            </licenses>
+            <purl>pkg:pypi/bdist-mpkg@0.5.0</purl>
+            <modified>false</modified>
+        </component>
+    </components>
+</bom>
